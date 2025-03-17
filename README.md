@@ -16,24 +16,6 @@ A simple Monte Carlo simulation using Python and Pygame to approximate the value
 - **Python 3.x**
 - **Pygame**: Install it via pip with `pip install pygame`
 
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/Monte-Carlo-Pi.git
-   cd Monte-Carlo-Pi
-   ```
-
-2. Install Pygame if not already installed:
-   ```bash
-   pip install pygame
-   ```
-
-3. Run the simulation:
-   ```bash
-   python main.py
-   ```
-
 ## Project Structure
 
 - **`main.py`**: The main script running the Monte Carlo Pi approximation.
